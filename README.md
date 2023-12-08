@@ -1,2 +1,2 @@
 # focus
-Exciting projects ahead
+Code, work, play, code
